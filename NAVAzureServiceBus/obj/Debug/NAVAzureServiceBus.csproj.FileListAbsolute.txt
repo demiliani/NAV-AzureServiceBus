@@ -1,0 +1,8 @@
+C:\STEFANO\CLOUD\NAVAzureServiceBus\NAVAzureServiceBus\bin\Debug\NAVAzureServiceBus.exe.config
+C:\STEFANO\CLOUD\NAVAzureServiceBus\NAVAzureServiceBus\obj\Debug\NAVAzureServiceBus.csprojResolveAssemblyReference.cache
+C:\STEFANO\CLOUD\NAVAzureServiceBus\NAVAzureServiceBus\bin\Debug\NAVAzureServiceBus.exe
+C:\STEFANO\CLOUD\NAVAzureServiceBus\NAVAzureServiceBus\bin\Debug\NAVAzureServiceBus.pdb
+C:\STEFANO\CLOUD\NAVAzureServiceBus\NAVAzureServiceBus\bin\Debug\Microsoft.ServiceBus.dll
+C:\STEFANO\CLOUD\NAVAzureServiceBus\NAVAzureServiceBus\bin\Debug\Microsoft.ServiceBus.xml
+C:\STEFANO\CLOUD\NAVAzureServiceBus\NAVAzureServiceBus\obj\Debug\NAVAzureServiceBus.exe
+C:\STEFANO\CLOUD\NAVAzureServiceBus\NAVAzureServiceBus\obj\Debug\NAVAzureServiceBus.pdb
